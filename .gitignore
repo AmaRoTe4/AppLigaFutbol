@@ -1,0 +1,11 @@
+package-lock.json
+package.json
+notas
+node_modules
+front-app/node_modules
+front-app/package-lock.json
+front-app/package.json
+node/node_modules
+node/package-lock.json
+node/package.json
+algoritmos

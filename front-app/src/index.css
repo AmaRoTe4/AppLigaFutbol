@@ -1,0 +1,12 @@
+.Perfil:hover{
+    cursor: pointer;
+    opacity: .5;
+    background-color: rgb(200 , 200, 200);
+}
+
+.fondoInicio{
+    background-image: url("./interfaces/imagenes/fondos/fondoMain3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 100%;
+}
