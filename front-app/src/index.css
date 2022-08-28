@@ -10,3 +10,7 @@
     background-size: cover;
     background-position: 100%;
 }
+
+.selecionado{
+    background-color: red;
+}
